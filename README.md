@@ -13,7 +13,6 @@
 - `generate_candidates.sh` — generate candidate list (prints to stdout).
 - `crack.sh` — example John the Ripper command to try to crack `demohashesTwo`.
 - `examples/` — optionally contains sample outputs and results.
-- `LICENSE` — MIT.
 
 ---
 
