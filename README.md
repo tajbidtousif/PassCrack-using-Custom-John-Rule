@@ -1,2 +1,2 @@
 # PassCrack-using-Custom-John-Rule
-CLI Version with custom feature
+CLI Version with Custom Feature
