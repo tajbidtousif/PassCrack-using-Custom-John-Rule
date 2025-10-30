@@ -6,7 +6,8 @@
 
 ---
 <img width="878" height="466" alt="CheckingRules" src="https://github.com/user-attachments/assets/d9e56bab-a159-4e15-a0d0-5bc0e831e9b9" />
-    /n Figure 1 – Checking custom John the Ripper rules in action
+
+Figure 1 – Checking custom John the Ripper rules in action
 
 
 
