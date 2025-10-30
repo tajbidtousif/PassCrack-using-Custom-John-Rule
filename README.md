@@ -5,6 +5,10 @@
 **Purpose:** showcase practical password-guessing methodology, rulefiles, and reproducible workflow for pentest / SRE / security engineering portfolios.
 
 ---
+<img width="878" height="466" alt="CheckingRules" src="https://github.com/user-attachments/assets/d9e56bab-a159-4e15-a0d0-5bc0e831e9b9" />
+*Figure 1 – Checking custom John the Ripper rules in action*
+
+
 
 ## What’s included
 - `johnDemo.conf` — custom ruleset (`[List.Rules:Seasons]`) with leet substitutions and 4-digit suffix generation.
